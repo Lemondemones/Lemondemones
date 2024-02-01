@@ -1,3 +1,5 @@
+<h1 align="left">:wave: Hello there!</h1>
+
 ### :milky_way: About Me :
 - 💻 Software Engineer passionate about web development!
 - 🌱 Exploring new technologies.
