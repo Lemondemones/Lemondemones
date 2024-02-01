@@ -56,13 +56,13 @@
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
@@ -74,32 +74,32 @@
 <table width='100%'>
   <tr>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
       <br>React JS
     </td>
  <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td> 
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -112,13 +112,13 @@
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
       <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
