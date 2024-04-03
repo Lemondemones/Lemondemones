@@ -15,7 +15,13 @@
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+      <br>JavaScript
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#">
@@ -45,7 +51,7 @@
       <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
-      <br>github
+      <br>GitHub
     </td>
    
   </tr> 
@@ -59,13 +65,13 @@
       <a href="#">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
-      <br>eslint
+      <br>Eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
-      <br>prettier
+      <br>Prettier
   </tr> 
 </table>
 
