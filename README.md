@@ -104,6 +104,12 @@
       </a>
       <br>Sass
     </td>
+  <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://img.icons8.com/?size=100&id=ktSS1TBte4xa&format=png&color=000000" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td> 
    <td align="center" width="110" height="90">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
